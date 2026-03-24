@@ -12,8 +12,8 @@ A simple web camera effect that lets you control elements with your hands!
 
 ### Press these number keys on your keyboard to switch powers:
 
-1: Fire & Ice (Left hand Fire, Right hand Ice)
-Note: Painting with this power starts after a 10-second delay.
-2: Lightning (Summons lightning bolts)
-3: Red & Blue (Left hand Red, Right hand Blue)
+1: Fire & Ice (Left hand Fire, Right hand Ice) <br>
+Note: Painting with this power starts after a 10-second delay. <br>
+2: Lightning (Summons lightning bolts) <br>
+3: Red & Blue (Left hand Red, Right hand Blue) <br>
 Note: You cannot paint with this power.
